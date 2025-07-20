@@ -20,7 +20,7 @@ class CalculatorApp:
           font=('Arial',16),
           anchor='e',
           background='white',
-          foreground='white',
+          foreground='black',
           padding=6
         )
         display_label.pack(fill=tk.BOTH,expand=True)
